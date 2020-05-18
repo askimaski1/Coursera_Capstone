@@ -4,3 +4,12 @@ Business Problem:
 
 To find ideal locations for a person wishing to start a business in Canada, so the person can get a 
 headstart in narrowing down locations to start business.
+
+The user would input:
+  -Neighborhood(of current address)
+  -City/Borough(of current address)
+  -Business Type
+  -Preferable Location of Business('Home' for his current City, or any other City of his/her choice)
+  
+ The output intended:
+  -A list of suggested neighborhoods for his/her business.
