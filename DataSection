@@ -7,3 +7,4 @@ For this project we will be using:
 *The Postal table will be used along with foursquare API to fetch desirable locations for our user.
 *The Canada City(Borough) population dataset will give us a parameter to compare different cities, 
  if the user wants to set up his/her business in another City/Borough.
+*Venues data from Foursquare.com.
