@@ -1,0 +1,6 @@
+For this project we will be using:
+  - The Canada Postal Table from: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+  - The Canada city population Dataset from: https://simplemaps.com/data/world-cities
+  
+*The Postal table will be used along with foursquare API to fetch desirable locations for our user.
+*The Canada City(Borough) population dataset will give us a parameter to compare different cities, if the user wants to set up his/her business in another City/Borough.
